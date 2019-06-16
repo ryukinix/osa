@@ -1,0 +1,27 @@
+###############################################################################
+#                                                                             #
+# IAR Assembler V1.10.0.50013 for STM8                  29/Sep/2010  23:29:35 #
+# Copyright 2010 IAR Systems AB.                                              #
+#                                                                             #
+#    Source file  =  C:\osa\osa_stm8_iar.s                                    #
+#    Command line =  C:\osa\osa_stm8_iar.s -M<> -r -ld                        #
+#                    C:\osa\example\stm8_iar\Debug\List\ --code_model small   #
+#                    --data_model medium -o C:\osa\example\stm8_iar\Debug\Obj #
+#                    \                                                        #
+#    List file    =  C:\osa\example\stm8_iar\Debug\List\osa_stm8_iar.lst      #
+#    Object file  =  C:\osa\example\stm8_iar\Debug\Obj\osa_stm8_iar.o         #
+#                                                                             #
+#                                                                             #
+###############################################################################
+
+##############################################################################
+# Module ATOMPORTASM                                                         #
+##############################################################################
+
+ 
+ 52 bytes in section .text , module ATOMPORTASM
+ 
+ 52 bytes of CODE memory  in module ATOMPORTASM
+
+Errors: none
+Warnings: none
